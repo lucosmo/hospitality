@@ -127,6 +127,12 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+#
+# uncomment below fopr deployment
+#
+#
 #
 #SECURE_HSTS_SECONDS = 31536000 # One year in seconds
 #SECURE_HSTS_INCLUDE_SUBDOMAINS = True
