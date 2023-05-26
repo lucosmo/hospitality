@@ -40,3 +40,10 @@ td.numbered {
 
 
 @media (min-width: 1400px) { }
+
+@media print {
+    body {
+        visibility: hidden;
+    }
+    
+}
