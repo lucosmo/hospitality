@@ -1,33 +1,36 @@
 td.numbered {
     width: 32.5px;
 }
-/*
+
 .btn-custom {
-    font-size:10vw;
+    font-size:5vw;
 }
 
 @media (min-width: 576px) { 
     tr {
-        font-size:5vw;
+        font-size:2vw;
     }
     .btn-custom {
-        font-size:1vw;
+        font-size:2vw;
     }
 }
 
 @media (min-width: 768px) { 
     
     tr {
-        font-size:5vw;
+        font-size:2vw;
     }
     .btn-custom {
-        font-size:10vw;
+        font-size:2vw;
     }
 }
 
 @media (min-width: 992px) { 
     tr {
-        font-size:40px;
+        font-size:2vw;
+    }
+    .btn-custom {
+        font-size:2vw;
     }
     
 }
